@@ -6,7 +6,7 @@ pillow==10.3.0
 Flask==3.0.3
 Flask-Cors==4.0.1
 imageio==2.34.1
-opencv-python==4.8.0.76
+opencv-python==3.4.16
 
 
 uvicorn==0.29.0
